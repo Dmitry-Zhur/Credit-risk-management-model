@@ -1,0 +1,7 @@
+{
+    "clf__bagging_temperature": 1.0,
+    "clf__depth": 6,
+    "clf__iterations": 1000,
+    "clf__l2_leaf_reg": 9,
+    "clf__learning_rate": 0.05
+}
